@@ -18,3 +18,4 @@ def RGB_initialize():
 
     # Linking
     camRgb.preview.link(xoutRgb.input)
+
