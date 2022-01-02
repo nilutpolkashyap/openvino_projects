@@ -1,6 +1,12 @@
 # object_detection_in_openvino
 
-## Details
+<img src="https://img.shields.io/github/license/nilutpolkashyap/object_detection_in_openvino?style=for-the-badge">&nbsp;<img src ="https://img.shields.io/github/languages/code-size/nilutpolkashyap/object_detection_in_openvino?style=for-the-badge">
+
+Clone this Repository - ``` git clone https://github.com/nilutpolkashyap/object_detection_in_openvino.git ```
+____________________________________________________________________________
+# **Details About Project**
+
+
 - Inference on - GPU (Intel Integrated UHD Graphics 630) 
 - Toolkit Used - Intel OpenVINO Toolkit
 
