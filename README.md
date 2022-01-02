@@ -1,4 +1,4 @@
-# object_detection_in_openvino
+# **OBJECT DETECTION USING OPENVINO TOOLKIT**
 
 <img src="https://img.shields.io/github/license/nilutpolkashyap/object_detection_in_openvino?style=for-the-badge">&nbsp;<img src ="https://img.shields.io/github/languages/code-size/nilutpolkashyap/object_detection_in_openvino?style=for-the-badge">
 
