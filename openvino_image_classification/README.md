@@ -11,7 +11,7 @@ ____________________________________________________________________________
 - Camera used - Laptop Webcam
 
 ## Results
-Using OpenVINO IR - Prediction: giant_panda: 93.70 %
+Using OpenVINO IR - Prediction: giant_panda: 93.70 % <br>
 Using Tensorflow Model - Prediction: giant_panda: 94.75 %
 
 ## Output
@@ -36,6 +36,6 @@ Using Tensorflow Model - Prediction: giant_panda: 94.75 %
 [https://docs.openvino.ai/latest/openvino_docs_install_guides_installing_openvino_windows.html](https://docs.openvino.ai/latest/openvino_docs_install_guides_installing_openvino_windows.html)
 _____________________________________________________________________
 ### OpenVINO Image Classification Jupyter Notebook 
-[[https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam](https://colab.research.google.com/drive/1BMneVcIxWswUBIWeIIBBzl4yQLQ8h807?usp=sharing)]([https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam](https://colab.research.google.com/drive/1BMneVcIxWswUBIWeIIBBzl4yQLQ8h807?usp=sharing))
+https://colab.research.google.com/drive/1BMneVcIxWswUBIWeIIBBzl4yQLQ8h807?usp=sharing
 
 _________________________________________________________________________
