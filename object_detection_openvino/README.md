@@ -17,8 +17,8 @@ ____________________________________________________________________________
 <img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/openvino_projects/main/object_detection_openvino/output.png" />
 <br />
 </div>
-
-**Video link** - _To be updated_
+<br>
+**LinkedIn Post link** - https://www.linkedin.com/posts/activity-6883518644417028096-BOhM/
 
 ### OpenVINO Model Zoo
 [https://docs.openvino.ai/latest/omz_demos.html](https://docs.openvino.ai/latest/omz_demos.html)
