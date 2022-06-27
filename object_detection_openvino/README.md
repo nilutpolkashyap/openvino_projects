@@ -1,8 +1,6 @@
 # **OBJECT DETECTION USING OPENVINO TOOLKIT**
 
-<img src="https://img.shields.io/github/license/nilutpolkashyap/object_detection_in_openvino?style=for-the-badge">&nbsp;<img src ="https://img.shields.io/github/languages/code-size/nilutpolkashyap/object_detection_in_openvino?style=for-the-badge">
-
-Clone this Repository - ``` git clone https://github.com/nilutpolkashyap/object_detection_in_openvino.git ```
+Clone this Repository - ``` git clone https://github.com/nilutpolkashyap/openvino_projects.git ```
 ____________________________________________________________________________
 # **Details About Project**
 
@@ -14,7 +12,7 @@ ____________________________________________________________________________
 
 ## Output
 <div align="center">
-<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/object_detection_in_openvino/main/object_detection_openvino/output.png" />
+<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/openvino_projects/main/object_detection_openvino/output.png" />
 <br />
 </div>
 
