@@ -27,7 +27,8 @@ Using Tensorflow Model - Prediction: giant_panda: 94.75 %
 <br />
 </div>
 
-**Video link** - _To be updated_
+**LinkedIn Post link** - https://www.linkedin.com/posts/activity-6746866299135135745-jusP?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 
 ### OpenVINO Model Zoo
 [https://docs.openvino.ai/latest/omz_demos.html](https://docs.openvino.ai/latest/omz_demos.html)
