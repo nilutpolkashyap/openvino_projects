@@ -1,4 +1,4 @@
-# **OBJECT DETECTION USING OPENVINO TOOLKIT**
+# **IMAGE CLASSIFICATION USING OPENVINO TOOLKIT**
 
 Clone this Repository - ``` git clone https://github.com/nilutpolkashyap/openvino_projects.git ```
 ____________________________________________________________________________
@@ -7,14 +7,23 @@ ____________________________________________________________________________
 
 - Inference on - GPU (Intel Integrated UHD Graphics 630) 
 - Toolkit Used - Intel OpenVINO Toolkit
-- OpenVINO Toolkit Version - openvino_2021.4.752
-- Camera used - Luxonis OAK-D-IOT-40
+- OpenVINO Toolkit Version - openvino_2021.1.110
+- Camera used - Laptop Webcam
 
-
+## Results
+Using OpenVINO IR - Prediction: giant_panda: 93.70 %
+Using Tensorflow Model - Prediction: giant_panda: 94.75 %
 
 ## Output
+- Inference Using Tensorflow
 <div align="center">
-<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/openvino_projects/main/object_detection_openvino/output.png" />
+<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/openvino_projects/main/openvino_image_classification/tensorflow_inference.jpg" />
+<br />
+</div>
+
+- Inference Using OpenVINO IR
+<div align="center">
+<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/openvino_projects/main/openvino_image_classification/openvino-_inference.jpg" />
 <br />
 </div>
 
@@ -26,13 +35,7 @@ ____________________________________________________________________________
 ### OpenVINO Installation Instructions
 [https://docs.openvino.ai/latest/openvino_docs_install_guides_installing_openvino_windows.html](https://docs.openvino.ai/latest/openvino_docs_install_guides_installing_openvino_windows.html)
 _____________________________________________________________________
-### 401 OpenVINO Object Detection Jupyter Notebook 
-[https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam)
+### OpenVINO Image Classification Jupyter Notebook 
+[[https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam](https://colab.research.google.com/drive/1BMneVcIxWswUBIWeIIBBzl4yQLQ8h807?usp=sharing)]([https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam](https://colab.research.google.com/drive/1BMneVcIxWswUBIWeIIBBzl4yQLQ8h807?usp=sharing))
 
 _________________________________________________________________________
-
-### DepthAI  documentation 
-[https://docs.luxonis.com/en/latest/](https://docs.luxonis.com/en/latest/)
-
-### DepthAI Examples 
-[https://github.com/luxonis/depthai-python/tree/main/examples](https://github.com/luxonis/depthai-python/tree/main/examples)
