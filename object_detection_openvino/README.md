@@ -7,6 +7,7 @@ ____________________________________________________________________________
 
 - Inference on - GPU (Intel Integrated UHD Graphics 630) 
 - Toolkit Used - Intel OpenVINO Toolkit
+- OpenVINO Toolkit Version - openvino_2021.4.752
 
 
 
