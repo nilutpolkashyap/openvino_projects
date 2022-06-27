@@ -14,7 +14,7 @@ ____________________________________________________________________________
 
 ## Output
 <div align="center">
-<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/object_detection_in_openvino/main/output.png" />
+<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/object_detection_in_openvino/main/object_detection_openvino/output.png" />
 <br />
 </div>
 
