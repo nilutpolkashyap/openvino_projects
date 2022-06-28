@@ -4,9 +4,14 @@
 
 Clone this Repository - ``` git clone https://github.com/nilutpolkashyap/openvino_projects.git ```
 ____________________________________________________________________________
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/repo_about_me_card.png" width="80%"/>
-</p>
+</p> -->
+<div align="center">
+<a href="https://github.com/nilutpolkashyap">
+  <img align="center" src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/main/repo_about_me_card.png" alt="Nilutpol Kashyap" width="80%"/>
+</a>
+</div>
 
 ## Output
 
