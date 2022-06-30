@@ -7,18 +7,20 @@ ____________________________________________________________________________
 # **Details About Project**
 
 
-- Inference on - GPU (Intel Integrated UHD Graphics 630) 
+# - Inference on - GPU (Intel Integrated UHD Graphics 630) 
 - Toolkit Used - Intel OpenVINO Toolkit
-
+- OpenVINO Toolkit Version - 2022.1
+- Camera used - USB Webcam
 
 
 ## Output
 <div align="center">
-<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/object_detection_in_openvino/main/output.png" />
+<img  alt="Output" width="90%" src="https://raw.githubusercontent.com/nilutpolkashyap/openvino_projects/main/human_pose_estimation_openvino/output.jpg" />
 <br />
 </div>
 
-**Video link** - _To be updated_
+
+**LinkedIn Post link** - https://www.linkedin.com/posts/activity-6948374682010013696-MVyP/
 
 ### OpenVINO Model Zoo
 [https://docs.openvino.ai/latest/omz_demos.html](https://docs.openvino.ai/latest/omz_demos.html)
@@ -31,8 +33,3 @@ _____________________________________________________________________
 
 _________________________________________________________________________
 
-### DepthAI  documentation 
-[https://docs.luxonis.com/en/latest/](https://docs.luxonis.com/en/latest/)
-
-### DepthAI Examples 
-[https://github.com/luxonis/depthai-python/tree/main/examples](https://github.com/luxonis/depthai-python/tree/main/examples)
