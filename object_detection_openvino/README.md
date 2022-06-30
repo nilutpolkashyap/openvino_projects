@@ -18,6 +18,8 @@ ____________________________________________________________________________
 <br />
 </div>
 <br>
+
+
 **LinkedIn Post link** - https://www.linkedin.com/posts/activity-6883518644417028096-BOhM/
 
 ### OpenVINO Model Zoo
